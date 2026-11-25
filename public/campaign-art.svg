@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" fill="none">
+  <defs>
+    <linearGradient id="orb" x1="172" y1="91" x2="526" y2="489" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB57E"/><stop offset=".48" stop-color="#F26559"/><stop offset="1" stop-color="#762345"/></linearGradient>
+    <linearGradient id="ribbon" x1="139" y1="390" x2="617" y2="174" gradientUnits="userSpaceOnUse"><stop stop-color="#FFC07F"/><stop offset="1" stop-color="#ED5C55"/></linearGradient>
+  </defs>
+  <circle cx="354" cy="278" r="183" fill="url(#orb)" fill-opacity=".2"/>
+  <circle cx="354" cy="278" r="152" stroke="#FFC17D" stroke-opacity=".34" stroke-width="2"/>
+  <circle cx="354" cy="278" r="116" stroke="#FF8E6A" stroke-opacity=".4" stroke-width="2"/>
+  <path d="M177 361c82-31 105-180 201-195 75-12 102 48 170 37 33-5 50-24 73-58" stroke="url(#ribbon)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M178 382c97-17 123-93 186-106 76-16 109 40 170 20 34-11 60-37 82-73" stroke="#FFE0AE" stroke-opacity=".75" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="188" cy="359" r="16" fill="#FFC47E"/><circle cx="379" cy="168" r="12" fill="#FF815F"/><circle cx="548" cy="204" r="19" fill="#FFD194"/>
+  <path d="m547 204 9 20 20 9-20 9-9 20-9-20-20-9 20-9 9-20Z" fill="#FFF0D7" fill-opacity=".9"/>
+  <circle cx="216" cy="170" r="4" fill="#FFC17D"/><circle cx="474" cy="412" r="5" fill="#F88568"/><circle cx="120" cy="274" r="3" fill="#FFE0AE"/>
+</svg>
